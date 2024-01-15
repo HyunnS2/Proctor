@@ -74,6 +74,6 @@
 응시자 - 이의제기 게시판 이용
 
 <p>
-	<img src = "https://github.com/HyunnS2/Proctor/assets/105518951/f79f38b3-8e7b-4ef2-b379-f662252a2803">
+	<img width="500px" src = "https://github.com/HyunnS2/Proctor/assets/105518951/f79f38b3-8e7b-4ef2-b379-f662252a2803">
 </p>
 
