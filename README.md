@@ -59,9 +59,21 @@
 
 응시자 - 시험 목록 확인 및 입장
 
-<p style="width:300px"><img src = ""https://github.com/HyunnS2/Proctor/assets/105518951/5af88232-82ae-41de-9279-de1ad3006fdd></p>
+<p>
+    <img src = "https://github.com/HyunnS2/Proctor/assets/105518951/40669ceb-f3a9-4336-abbf-06a6c02e01c2">
+</p>
+
+
+관리자 - 실시간 카카오톡 알림 서비스 & 시험 후, 부정행위 목록 확인
 
 <p>
-    <img src = "https://github.com/HyunnS2/Proctor/assets/105518951/6baf91a8-1dc0-4e4c-b592-faff8b27be4c">
-    
+	<img src ="https://github.com/HyunnS2/Proctor/assets/105518951/c955aa2c-7909-48a4-aa95-eb98000f3626">
+	<img src ="https://github.com/HyunnS2/Proctor/assets/105518951/e7e9ea4a-a1a1-4faa-8837-4eaeeb4d739a">
+<p>
+
+응시자 - 이의제기 게시판 이용
+
+<p>
+	<img src = "https://github.com/HyunnS2/Proctor/assets/105518951/f79f38b3-8e7b-4ef2-b379-f662252a2803">
 </p>
+
