@@ -67,7 +67,7 @@
 관리자 - 실시간 카카오톡 알림 서비스 & 시험 후, 부정행위 목록 확인
 
 <p>
-	<img width="300px" src ="https://github.com/HyunnS2/Proctor/assets/105518951/c955aa2c-7909-48a4-aa95-eb98000f3626">
+	<img width="200px" src ="https://github.com/HyunnS2/Proctor/assets/105518951/c955aa2c-7909-48a4-aa95-eb98000f3626">
 	<img width="500px" src ="https://github.com/HyunnS2/Proctor/assets/105518951/e7e9ea4a-a1a1-4faa-8837-4eaeeb4d739a">
 <p>
 
