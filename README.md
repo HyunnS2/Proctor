@@ -18,7 +18,7 @@
 ## 📌 주요 기능
 
 <p align="center">
-  <img src="https://github.com/HyunnS2/Proctor/assets/105518951/c7d58fdb-38af-4d3f-9bf4-ec0c2c79262e">
+  <img width="500px" src="https://github.com/HyunnS2/Proctor/assets/105518951/c7d58fdb-38af-4d3f-9bf4-ec0c2c79262e">
 </p>
 
 
