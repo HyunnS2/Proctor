@@ -54,13 +54,13 @@
 관리자 - 시험 추가
 
 <p>
-	<img src="https://github.com/HyunnS2/Proctor/assets/105518951/f91ca704-fe94-44b0-903b-633a39fab5b7">
+	<img width="500px" src="https://github.com/HyunnS2/Proctor/assets/105518951/f91ca704-fe94-44b0-903b-633a39fab5b7">
 </p>
 
 응시자 - 시험 목록 확인 및 입장
 
 <p>
-    <img src = "https://github.com/HyunnS2/Proctor/assets/105518951/40669ceb-f3a9-4336-abbf-06a6c02e01c2">
+    <img width="500px" src = "https://github.com/HyunnS2/Proctor/assets/105518951/40669ceb-f3a9-4336-abbf-06a6c02e01c2">
 </p>
 
 
@@ -68,7 +68,7 @@
 
 <p>
 	<img width="300px" src ="https://github.com/HyunnS2/Proctor/assets/105518951/c955aa2c-7909-48a4-aa95-eb98000f3626">
-	<img src ="https://github.com/HyunnS2/Proctor/assets/105518951/e7e9ea4a-a1a1-4faa-8837-4eaeeb4d739a">
+	<img width="500px" src ="https://github.com/HyunnS2/Proctor/assets/105518951/e7e9ea4a-a1a1-4faa-8837-4eaeeb4d739a">
 <p>
 
 응시자 - 이의제기 게시판 이용
